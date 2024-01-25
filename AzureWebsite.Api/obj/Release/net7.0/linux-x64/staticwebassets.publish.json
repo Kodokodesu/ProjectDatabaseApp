@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JmAePkGvE7+C2vbEqbPRJvU40qbnugTESjpbjZ6VxBY=",
+  "Source": "AzureWebsite.Api",
+  "BasePath": "_content/AzureWebsite.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

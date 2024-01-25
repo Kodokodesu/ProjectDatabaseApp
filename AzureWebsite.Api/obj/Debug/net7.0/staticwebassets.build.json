@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9i8yWeJufsAvf4nT8n+K+EUMbb00IhhCZa3C0GQ0PG8=",
+  "Source": "AzureWebsite.Api",
+  "BasePath": "_content/AzureWebsite.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
